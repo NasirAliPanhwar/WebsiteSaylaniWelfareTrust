@@ -1,0 +1,387 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul li{
+
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.head-buttons{
+    padding: 2px;
+
+    
+}
+.head-buttons a{
+
+    color:green;
+    font-size: 12px;
+
+
+}
+
+.header{
+    background-color: #fff;
+    margin-top: 15px;
+    padding-bottom: 10px;
+    padding-right: 190px;
+}
+.show-in-line{
+display: inline-block;
+}
+
+.logo img{
+    width:190px ;
+    
+    
+}
+.menu ul li{
+
+    display: inline-block;
+     padding-left: 0px 15px;
+     position: relative;
+     
+     left:180px;
+
+}.menu ul li a{
+ 
+    text-decoration:  none;
+    padding: 10px 13px;
+    color:black;
+}
+
+.menu ul li a:hover{
+ 
+
+    background-color: #316dc3;
+    color:#fff;
+    border-radius: 25px;
+} 
+img{
+
+  width: 100%;
+}
+
+
+@media only screen and (max-width: 600px) {
+img{
+  width: 500px;
+}
+  
+}
+
+@media only screen and (max-width: 400px) {
+img{
+    width: 300px;
+  }
+    
+  }
+.animation{
+
+    background-color: #316dc3;
+    color:#fff;
+    position: relative;
+    bottom:4px;
+    height: 30px;
+}
+
+.color{
+    color:rgb(60, 236, 60);
+}
+
+.faicons{
+
+    position: relative;
+    top: 15px;
+    width: 50px;
+
+
+  }
+  
+  .Introduction>b{
+    color:blue;
+    text-align: center;
+    font-size: 27px;  
+  }
+  .Introduction{
+    color:green;
+    text-align: center;
+  font-size: 27px;
+  }
+  
+.line{
+    color:green;
+    padding-top:10px;
+    margin:10px;
+    text-align: center;
+    
+  }
+  
+
+  h1{
+    font-size: 40px;
+    color:white;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+  }
+  
+  .para{
+    color:white;
+   font-size: 16px;
+   text-align: center;
+    padding: 0px;
+    margin: 0px;
+  }
+  .para>b{
+    color:rgb(23, 216, 23);
+    font-size: 16px;
+     
+  }
+  .Eduaction{
+  margin-left: 0px;
+  width: 50px;  
+}
+  .Medicals{
+
+
+    margin-left: 0px;
+    width: 50px;
+  }
+  .family{
+    
+  margin-right:  0px;
+  width: 50px; 
+}
+  .DASTRAKHAN{
+    
+    margin-left: 0px;
+    width: 50px;
+    }
+  
+.ONLINE_SADQAH{
+    font-size: 20px;
+  color:rgb(33, 130, 168);
+}
+
+
+
+.onlinesadqah{
+  width: 50px;
+}
+.welfare{
+width: 50px;
+}
+.medical{
+width: 50px;
+}
+.Dastarkhwans{
+
+width: 50px;
+}
+
+.ROPLANTS{
+
+ width: 50px;
+}
+
+.educations{
+width: 50px;
+}
+
+.SADQAH{
+
+
+ padding-top:30px;
+ padding-bottom: 30px;
+ padding-left: 30px;
+ padding-right: 20px;
+
+ box-shadow: 1px 1px 12px;  
+
+}
+
+      
+.WELFARE{
+
+    padding-top:30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 20px;
+
+    box-shadow: 1px 1px 12px;  
+
+}
+ 
+
+
+.MEDICAL{
+    padding-top:30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 20px;
+
+    box-shadow: 1px 1px 12px;  
+
+
+}
+
+.Dastark{
+
+    padding-top:30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 20px;
+
+
+    box-shadow: 1px 1px 12px;  
+}
+
+.ROPLANT{
+
+    padding-top:30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 20px;
+
+    box-shadow: 1px 1px 12px;  
+
+}
+
+.education{
+
+    padding-top:30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 20px;
+
+    box-shadow: 1px 1px 12px;  
+}
+
+
+.separator{
+
+    width: 70px;
+    height: 3px;
+    background-color: green;
+    display: block;
+
+
+
+}
+.Hepatitis{
+
+  width: 50px;
+    padding-right:140px;
+}
+
+
+
+.housing{
+
+    padding-right:80px;
+}
+
+.IT{
+
+
+    padding-right:130px;
+}
+.tharparkar{
+
+    padding-right:114px;
+}
+.image{
+
+padding-right:20px;
+width: 50px;
+}
+
+
+
+.UpProject marquee{
+height: 200px;
+}
+
+.footerlist ul li {
+
+    padding-left: 90px;
+    padding-top: 4px;
+    position: relative;
+    top:34px;
+  
+}
+
+.ImagGallary{
+width: 200px;
+}
+
+
+.Usefuls{
+  font-size: 17px;
+  position: relative;
+  left:280px;
+  bottom:200px;
+  }
+  .linesss{
+
+    height: 2px;
+  width: 45px;
+  margin-left: 420px;
+  margin-top: 11px;
+  background: green;
+  position: relative;
+  bottom:200px;
+left: 25px;
+  }
+  
+  
+.linesthin{
+    color:white;
+      height: 2px;
+    width: 45px;
+    margin-left: 490px;
+    margin-top: 10px;
+    background: ;
+    position: relative;
+    bottom:233px;
+
+    
+    opacity: 0.5;
+    }
+
+
+
+    .Connect{
+        font-size: 17px;
+      
+        padding-left: 0px;
+        position: relative;
+        bottom: 200px;
+        left: 20px;
+
+      }
+      
+
+.socials{
+
+    float: right;
+    display: inline-block;
+    position: relative;
+    right:315px;
+    bottom: 200px;
+    color:rgba(13, 145, 233, 0.966);
+  
+  }
+  
+.Copyright{
+    font-size: 14px;
+    background-color: rgb(15, 124, 248);
+    color:white;
+  display: flex;
+  padding-left: 135px;
+  
+  }
